@@ -1,2 +1,2 @@
-# Scikit-learning
+# Scikit learning
 Scikit-learn details
